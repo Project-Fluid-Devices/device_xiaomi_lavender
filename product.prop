@@ -1,0 +1,7 @@
+# Device mask
+ro.build.fingerprint=xiaomi/lavender/lavender:10/QKQ1.190910.002/V12.0.1.0.QFGMIXM:user/release-keys
+ro.product.brand=Xiaomi
+ro.product.device=lavender
+ro.product.manufacturer=Xiaomi
+ro.product.model=Redmi Note 7
+ro.product.name=lavender
