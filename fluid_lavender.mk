@@ -39,7 +39,7 @@ PRODUCT_MANUFACTURER := Xiaomi
 PRODUCT_NAME := fluid_lavender
 PRODUCT_MODEL := Redmi Note 7
 IS_PHONE := true
-FLUID_BUILD_TYPE := OFFICIAL
+FLUID_BUILD_TYPE := UNOFFICIAL
 
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
 
@@ -51,5 +51,5 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
 BUILD_FINGERPRINT := xiaomi/lavender/lavender:10/QKQ1.190910.002/V12.0.1.0.QFGMIXM:user/release-keys
 
 PRODUCT_PRODUCT_PROPERTIES += \
-  ro.fluid.maintainer=Sfier Reichenbach \
+  ro.fluid.maintainer=Mukul_Sharma \
   ro.fluid.cpu=SDM660
