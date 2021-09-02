@@ -48,7 +48,7 @@ TARGET_VENDOR_PRODUCT_NAME := lavender
 PRODUCT_BUILD_PROP_OVERRIDES += \
     PRIVATE_BUILD_DESC="lavender-user 10 QKQ1.190910.002 V12.0.1.0.QFGMIXM release-keys"
 
-BUILD_FINGERPRINT := xiaomi/lavender/lavender:10/QKQ1.190910.002/V12.0.1.0.QFGMIXM:user/release-keys
+BUILD_FINGERPRINT := Xiaomi/dipper/dipper:8.1.0/OPM1.171019.011/V9.5.5.0.OEAMIFA:user/release-keys
 
 PRODUCT_PRODUCT_PROPERTIES += \
   ro.fluid.maintainer=Sfier Reichenbach \
