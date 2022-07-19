@@ -9,7 +9,7 @@
 set -e
 
 export DEVICE=lavender
-export DEVICE_COMMON=sdm660-common
+export DEVICE_COMMON=lavender-common
 export VENDOR=xiaomi
 
 "./../../${VENDOR}/${DEVICE_COMMON}/setup-makefiles.sh" "$@"

@@ -4,8 +4,8 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-# Inherit from sdm660-common
-include device/xiaomi/sdm660-common/BoardConfigCommon.mk
+# Inherit from lavender-common
+include device/xiaomi/lavender-common/BoardConfigCommon.mk
 
 DEVICE_PATH := device/xiaomi/lavender
 

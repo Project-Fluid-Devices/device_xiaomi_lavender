@@ -2,13 +2,25 @@
   {
     "remote":      "fluid-devices",
     "repository":  "device_xiaomi_sdm660-common",
-    "target_path": "device/xiaomi/sdm660-common",
-    "branch":      "fluid-12-lavender"
+    "target_path": "device/xiaomi/lavender-common",
+    "branch":"fluid-12.1-lavender"
   },
   {
     "remote":      "fluid-devices",
     "repository":  "vendor_xiaomi_lavender",
     "target_path": "vendor/xiaomi/lavender",
-    "branch":      "fluid-12-lavender"
+    "branch":"fluid-12.1"
+  },
+  {
+    "remote":      "fluid-devices",
+    "repository":  "vendor_xiaomi_sdm660-common",
+    "target_path": "vendor/xiaomi/lavender-common",
+    "branch":"fluid-12.1-lavender"
+  },
+  {
+    "remote":      "fluid-devices",
+    "repository":  "kernel_xiaomi_sdm660",
+    "target_path": "kernel/xiaomi/lavender",
+    "branch":"fluid-12.1-lavender"
   }
 ]
