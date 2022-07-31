@@ -27,6 +27,6 @@
     "remote":      "github",
     "repository":  "sfierxyz/android_hardware_qcom_display",
     "target_path": "hardware/qcom-caf/msm8998/display",
-    "branch":"11"
+    "branch":"12"
   }
 ]
